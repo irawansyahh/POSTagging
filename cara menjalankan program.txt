@@ -1,0 +1,2 @@
+upload file test_sentences.tsv dan train01.tsv ke dalam google colab 
+lalu run program
